@@ -1,0 +1,9 @@
+Package: com.main.kiyu4776.console.log
+Name: consoleLog
+Depends: mobilesubstrate
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Description: ログを画面の上に出す
+Maintainer: kiyu4776
+Author: kiyu4776
+Section: Tweaks
